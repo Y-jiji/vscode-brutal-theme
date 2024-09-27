@@ -1,4 +1,4 @@
-# vscode-rgb-light README
+# vscode-brutal-light README
 
 ## Working with Markdown
 

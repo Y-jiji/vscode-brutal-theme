@@ -1,6 +1,6 @@
 {
-  "name": "vscode-rgb-light",
-  "displayName": "vscode-rgb-light",
+  "name": "vscode-brutal-light",
+  "displayName": "vscode-brutal-light",
   "description": "Minimal light theme that looks and feels like a whiteboard. ",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "RGB Light",
+        "label": "Brutal Light",
         "uiTheme": "vs",
-        "path": "./themes/RGB Light-color-theme.json"
+        "path": "./themes/Brutal Light-color-theme.json"
       }
     ]
   }
