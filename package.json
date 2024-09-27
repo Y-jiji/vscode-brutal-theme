@@ -1,0 +1,21 @@
+{
+  "name": "vscode-rgb-light",
+  "displayName": "vscode-rgb-light",
+  "description": "Minimal light theme that looks and feels like a whiteboard. ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RGB Light",
+        "uiTheme": "vs",
+        "path": "./themes/RGB Light-color-theme.json"
+      }
+    ]
+  }
+}
