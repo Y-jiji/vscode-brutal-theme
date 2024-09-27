@@ -3,6 +3,7 @@
   "displayName": "vscode-brutal-light",
   "description": "Minimal light theme that looks and feels like a whiteboard. ",
   "version": "0.0.1",
+  "publisher": "Y-jiji",
   "engines": {
     "vscode": "^1.93.0"
   },
