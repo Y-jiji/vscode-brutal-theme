@@ -1,11 +1,12 @@
 {
   "name": "vscode-brutal-light",
   "displayName": "vscode-brutal-light",
+  "repository": "https://github.com/Y-jiji/vscode-brutal-light",
   "description": "Minimal light theme that looks and feels like a whiteboard. ",
   "version": "0.0.1",
   "publisher": "Y-jiji",
   "engines": {
-    "vscode": "^1.93.0"
+    "vscode": ">=1.92.0"
   },
   "categories": [
     "Themes"
@@ -18,5 +19,8 @@
         "path": "./themes/Brutal Light-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0"
   }
 }
