@@ -2,6 +2,9 @@
 	"name": "Brutal Light",
 	"type": "light",
 	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"*.mutable": { "underline": false }
+	},
 	"colors": {
 		"editor.background"					: "#FFF",
 		"editor.foreground"					: "#000",
