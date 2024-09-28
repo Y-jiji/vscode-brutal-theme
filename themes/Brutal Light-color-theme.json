@@ -1,5 +1,7 @@
 {
 	"name": "Brutal Light",
+	"type": "light",
+	"semanticHighlighting": true,
 	"colors": {
 		"editor.background"					: "#FFF",
 		"editor.foreground"					: "#000",
@@ -65,7 +67,6 @@
 		"input.foreground": "#000",
 		"input.background": "#FFF",
 	},
-	"semanticHighlighting": true,
 	"tokenColors": [
 		{
 			"name": "Comments",
@@ -140,6 +141,7 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
+				"entity",
 				"support.variable"
 			],
 			"settings": {
@@ -152,6 +154,7 @@
 			"scope": [
 				"entity.name.function",
 				"support.function",
+				"entity.name.method"
 			],
 			"settings": {
 				"foreground": "#00F"
