@@ -47,7 +47,7 @@
 		"gitDecoration.conflictingResourceForeground"	: "#F00",
 		"gitDecoration.stageDeletedResourceForeground"	: "#F00",
 		"gitDecoration.ignoredResourceForeground"		: "#AAA",
-		"gitDecoration.untrackedResourceForeground"		: "#EE0",
+		"gitDecoration.untrackedResourceForeground"		: "#DD0",
 		"terminal.ansiBlue"				: "#00F",
 		"terminal.ansiBlack"			: "#000",
 		"terminal.ansiCyan"				: "#0DD",
