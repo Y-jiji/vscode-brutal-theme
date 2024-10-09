@@ -113,7 +113,9 @@
 			"name": "Keywords",
 			"scope": [
 				"keyword",
-				"storage"
+				"storage",
+				"support.class",
+				"entity.name.class"
 			],
 			"settings": {
 				"foreground": "#F00"
@@ -122,7 +124,7 @@
 		{
 			"name": "Types",
 			"scope": [
-				"storage.type",
+				"entity.name.type",
 				"support.type"
 			],
 			"settings": {
