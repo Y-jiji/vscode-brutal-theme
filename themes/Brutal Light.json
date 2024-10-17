@@ -68,7 +68,7 @@
 		"terminal.background"			: "#FFF",
 		"editor.selectionBackground"	: "#0000FF55",
 		"input.foreground": "#000",
-		"input.background": "#FFF",
+		"input.background": "#FFF"
 	},
 	"tokenColors": [
 		{
