@@ -16,7 +16,12 @@
       {
         "label": "Brutal Light",
         "uiTheme": "vs",
-        "path": "./themes/Brutal Light-color-theme.json"
+        "path": "./themes/Brutal Light.json"
+      },
+      {
+        "label": "Brutal Dark",
+        "uiTheme": "vs",
+        "path": "./themes/Brutal Dark.json"
       }
     ]
   },
