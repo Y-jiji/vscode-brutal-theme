@@ -20,7 +20,7 @@
       },
       {
         "label": "Brutal Dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Brutal Dark.json"
       }
     ]
