@@ -1,2 +1,2 @@
-FROM    alpine:3.21
-RUN     apk add nodejs
+FROM    ubuntu:22.04
+RUN     apt-get update && apt-get install -y nodejs git bash wget
