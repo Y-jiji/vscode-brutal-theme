@@ -3,8 +3,9 @@
   "displayName": "vscode-brutal-theme",
   "repository": "https://github.com/Y-jiji/vscode-brutal-theme",
   "description": "Suckless white/dark theme. ",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Y-jiji",
+  "icon": "brutal-icon.png",
   "engines": {
     "vscode": ">=1.92.0"
   },
