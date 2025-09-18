@@ -36,8 +36,8 @@
 		"editorBracketHighlight.foreground4": "#44F",
 		"editorBracketHighlight.foreground5": "#F44",
 		"editorBracketHighlight.foreground6": "#44F",
-		"editorLineNumber.foreground"		: "#EEE",
-		"editorLineNumber.activeForeground"	: "#EEE", 
+		"editorLineNumber.foreground"		: "#777",
+		"editorLineNumber.activeForeground"	: "#777", 
 		"tab.activeBackground"				: "#FFF",
 		"tab.inactiveBackground"			: "#FFF",
 		"tab.activeBorderTop"				: "#00F",
@@ -50,7 +50,7 @@
 		"gitDecoration.modifiedResourceForeground"		: "#00F",
 		"gitDecoration.conflictingResourceForeground"	: "#F00",
 		"gitDecoration.stageDeletedResourceForeground"	: "#F00",
-		"gitDecoration.ignoredResourceForeground"		: "#AAA",
+		"gitDecoration.ignoredResourceForeground"		: "#999",
 		"gitDecoration.untrackedResourceForeground"		: "#FA0",
 		"terminal.ansiBlue"				: "#00F",
 		"terminal.ansiBlack"			: "#000",
@@ -58,7 +58,7 @@
 		"terminal.ansiGreen"			: "#0D0",
 		"terminal.ansiMagenta"			: "#F0F",
 		"terminal.ansiRed"				: "#F00",
-		"terminal.ansiWhite"			: "#AAA",
+		"terminal.ansiWhite"			: "#999",
 		"terminal.ansiYellow"			: "#FA0",
 		"terminal.ansiBrightBlue"		: "#44F",
 		"terminal.ansiBrightBlack"		: "#444",
@@ -83,7 +83,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#AAA"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -91,7 +91,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#AAA"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -102,7 +102,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#AAA"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -249,7 +249,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
-				"foreground": "#AAA"
+				"foreground": "#999"
 			}
 		},
 		{
